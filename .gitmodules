@@ -1,0 +1,3 @@
+[submodule "lib/ring_buffer"]
+	path = lib/ring_buffer
+	url = git://github.com/AndersKaloer/Ring-Buffer.git
